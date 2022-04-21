@@ -33,14 +33,30 @@ which gives a total of 8 observations.
 
 ### Variables description
 
-1. Healthy life years (hlty_total) (<a href = "https://ec.europa.eu/eurostat/cache/metadata/en/hlth_hlye_esms.htm">Description</a>)
-2. Healthy life expectancy (hlte_sph_total) (<a href = "https://ec.europa.eu/eurostat/cache/metadata/en/hlth_silc_17_esms.htm">Description</a>)
-3. Self-perceived health (sph_total)(<a href = "https://ec.europa.eu/eurostat/cache/metadata/en/hlth_silc_01_esms.htm">Description</a>)
-4. Hospital beds (hbds_number) (<a href = "https://ec.europa.eu/eurostat/cache/metadata/en/hlth_res_esms.htm">Description</a>)
-5. Health graduates (hlt_graduates) (<a href="https://ec.europa.eu/eurostat/cache/metadata/en/hlth_res_esms.htm">Description</a>)
-6. Health personnel, caregivers excluded (<a href="https://ec.europa.eu/eurostat/cache/metadata/en/hlth_res_esms.htm">Description</a>)
-7. Accidents at work (acc_at_work) (<a href="https://ec.europa.eu/eurostat/cache/metadata/en/hsw_acc_work_esms.htm">Description</a>)
-8. Current depressive symptoms (cds) (<a href="">Description</a>)
+1. Healthy life years <b>(hlty_total)</b> (<a href = "https://ec.europa.eu/eurostat/cache/metadata/en/hlth_hlye_esms.htm">Description</a>)
+  - Statistical unit : years,
+  - Statistical population : the whole EU population is covered,
+  - Units of measure : indicator Health expectancies based on self-perceived health is presented for women and men and at different ages (at birth, at 50 and at 65),
+  - Character : stimulant.
+2. Healthy life expectancy <b>(hlte_sph_total)</b> (<a href = "https://ec.europa.eu/eurostat/cache/metadata/en/hlth_silc_17_esms.htm">Description</a>)
+  - Statistical unit : years,
+  - Statistical population : the whole EU population aged 15+ is covered,
+  - Units of measure : indicator Health expectancies based on self-perceived health is presented for women and men and at different ages (at birth, at 50 and at 65),
+  - Character : stimulant.
+3. Self-perceived health <b>(sph_total)</b> (<a href = "https://ec.europa.eu/eurostat/cache/metadata/en/hlth_silc_01_esms.htm">Description</a>)
+  - Statistical unit : individuals aged 16 years old and over living in private households,
+  - Statistical population : individuals aged 16 years old and over living in private households.
+  - Units of measure : percentage,
+  - Character : stimulant.
+5. Hospital beds <b>(hbds_number)</b> (<a href = "https://ec.europa.eu/eurostat/cache/metadata/en/hlth_res_esms.htm">Description</a>)
+  - Statistical unit : Administrative data sources refer to registered health professionals or health care facility categories. The underlying totality of institutions, for which data collections are available, may differ. In some countries, data may not be available for a subgroup of institutions (e.g. private hospitals),
+  - Statistical population : the target populations are all available beds or equipment in hospitals or in nursing and residential care facilities,
+  - Units of measure : number of hospital beds in facilities mentioned above,
+  - Character : stimulant.
+7. Health graduates <b>(hlt_graduates)</b> (<a href="https://ec.europa.eu/eurostat/cache/metadata/en/hlth_res_esms.htm">Description</a>)
+8. Health personnel, caregivers excluded <b>(hlt_per_exp_ncp)</b> (<a href="https://ec.europa.eu/eurostat/cache/metadata/en/hlth_res_esms.htm">Description</a>)
+9. Accidents at work <b>(acc_at_work)</b> (<a href="https://ec.europa.eu/eurostat/cache/metadata/en/hsw_acc_work_esms.htm">Description</a>)
+10. Current depressive symptoms <b>(cds)</b> (<a href="">Description</a>)
 
 w określonym wieku powinna przeżyć bez żadnych poważnych lub umiar-
 kowanych problemów zdrowotnych.
