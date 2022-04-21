@@ -9,7 +9,7 @@ Data in the area of health care was taken from the official database of Eurostat
 
 Variable measurements are mainly from 2018, but because of the lack of values in some of the variables, the closest available value in the database was taken.
 
-#### 1. Medical personnel, excluding caregivers in your country (hlt_per_exp_ncp),
+#### 1. Medical personnel, excluding caregivers in a given country (hlt_per_exp_ncp),
   - Missing value for the country Luxembourg, filled with observation from year 2017,
   - Missing value for the country Poland, filled with observation from year 2017,
   - Missing value for the country Slovakia, filled with observation from year 2014,
@@ -33,3 +33,9 @@ which gives a total of 8 observations.
 
 ### Overwiew of data
 
+#### 1. Healthy life years (hlty_total) (<a href = "https://ec.europa.eu/eurostat/cache/metadata/en/hlth_hlye_esms.htm">Description</a>)
+
+w określonym wieku powinna przeżyć bez żadnych poważnych lub umiar-
+kowanych problemów zdrowotnych.
+
+  - Healthy life years indicator measures 
