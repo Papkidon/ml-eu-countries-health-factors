@@ -9,18 +9,18 @@ Data in the area of health care was taken from the official database of <a href 
 
 Variable measurements are mainly from 2018, but because of the lack of values in some of the variables, the closest available value in the database was taken.
 
-1. Medical personnel, excluding caregivers in a given country (hlt_per_exp_ncp),
+1. <b>Medical personnel, excluding caregivers in a given country (hlt_per_exp_ncp)</b>,
   - Missing value for the country Luxembourg, filled with observation from year 2017,
   - Missing value for the country Poland, filled with observation from year 2017,
   - Missing value for the country Slovakia, filled with observation from year 2014,
   - Missing value for the country Finland, filled with observation from year 2014.
-2. Percentage of population with depression (cds),
+2. <b>Percentage of population with depression (cds)</b>,
   - Missing value for the country United Kingdom, filled with observation from year 2014.
-3. The number of physicians in a given country (phy_number),
+3. <b>The number of physicians in a given country (phy_number)</b>,
   - No value for the country Luxembourg, filled with observation from year 2017,
   - No value for the country Poland, filled with observation from year 2017,
   - No value for the country Finland, filled with observation from year 2015.
-4. Number of deaths in a given country (cod),
+4. <b>Number of deaths in a given country (cod)</b>,
   - No value for the country France, filled with observation from year 2017.
 
 The missing observations in total:
