@@ -104,7 +104,4 @@ which gives a total of 8 observations.
   - Units of measure : percentage,
   - Character : destimulant.
 
-w określonym wieku powinna przeżyć bez żadnych poważnych lub umiar-
-kowanych problemów zdrowotnych.
-
-  - Healthy life years indicator measures 
+All code is in <b>Script.Rmd</b> file, output is in <b>Output.html</b>.
